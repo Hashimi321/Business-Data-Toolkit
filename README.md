@@ -1,0 +1,1 @@
+This project helps businesses clean their data and analyse it.
